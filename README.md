@@ -12,4 +12,16 @@
 
 <br>
 
+<h2> About Me </h2>
+
+<h3> Welcome to my Github Profile!</h3>
+
+- I'm a passionate and self-driven front-end developer with a strong foundation in HTML, CSS, and JavaScript. 
+
+- I am dedicated to continuously expanding my skill set and staying up-to-date with the latest web technologies. 
+
+
+- My goal is to leverage my expertise and creativity to build captivating and user-friendly web applications.
+
+
 
