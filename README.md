@@ -7,7 +7,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Sigmar&size=25&duration=3000&pause=1500&color=3DA9FC&center=true&vCenter=true&width=435&lines=Front-end+Developer,;UI%2FUX+Designer,;self-directed+Learner,;highly motivated indiviual,;...and always+learning!" alt="Typing SVG" align="center"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Sigmar&size=25&duration=3000&pause=1500&color=3DA9FC&center=true&vCenter=true&width=435&lines=Front-end+Developer,;UI%2FUX+Designer,;self-directed+learner,;highly motivated individual,;...and always+learning!" alt="Typing SVG" align="center"/>
 </p> 
 
 <picture><img src = "mdAssets/laptop.gif" width = 250px height="250px" align="right"></picture>
