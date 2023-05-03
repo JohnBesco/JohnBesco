@@ -49,14 +49,15 @@
    
    ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;
    ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;
-   
-
-- **Tools**:
-
-    ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
+   ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
     
   💡 Problem Solving: Experienced in identifying and resolving complex technical issues, employing analytical thinking and troubleshooting skills to deliver effective solutions.
-    
+  
+  <br>
+  
+<p align='left'> 
+  <img align="center"
+src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExODFmMzBjY2NhOWJkMzA3OTMwNTg3YjYyZmY5Mzk1YzY0MGVkM2JlNyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/zOvBKUUEERdNm/giphy.gif">
 </p>
 
 <h2><img src="mdAssets/connect.gif" width ="60" height="60">Connect With Me</h2>
@@ -72,10 +73,3 @@
 <a href="mailto:johnbesco.dev@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/gmail:  JohnBesco-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail/>
 </a>
-
-<br>
-
-<br>
-
-<p align='center'> <img align="center" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExODFmMzBjY2NhOWJkMzA3OTMwNTg3YjYyZmY5Mzk1YzY0MGVkM2JlNyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/zOvBKUUEERdNm/giphy.gif">
-
