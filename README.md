@@ -6,15 +6,13 @@
   
 </h1>
 
-
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Sigmar&size=25&duration=3000&pause=1500&color=3DA9FC&center=true&vCenter=true&width=435&lines=Front-end+Developer;UI%2FUX+Designer;Self-directed+Learner;Always+Learning" alt="Typing SVG" align="center"/>
 </p> 
 
 <picture><img src = "mdAssets/laptop.gif" width = 250px height="250px" align="right"></picture>
 
-<h2><img src="https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif" width ="100">About Me</h2>
+<h2><img src="mdAssets/typing.gif" width="40px" height="40px">About Me</h2>
 
 - I'm a passionate and self-driven front-end developer with a strong foundation in HTML, CSS, and JavaScript. 
 
