@@ -25,7 +25,7 @@
 <h2><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="35">Skillset</h2>
 
 
-   🚀 Proficient in building responsive and accessible web interfaces, utilizing semantic HTML, CSS preprocessors, and modern JavaScript.
+   🚀 Confident in building responsive and accessible web interfaces, utilizing semantic HTML, CSS preprocessors, and modern JavaScript.
    
    <br>
 
@@ -43,7 +43,7 @@
   
   <br>
   
-  🔧 Version Control: Proficient in using Git for version control, ensuring efficient collaboration and code management in a team environment.
+  🔧 Version Control: Solid understanding of using Git for version control, ensuring efficient collaboration and code management.
   
   <br>
    
@@ -51,7 +51,7 @@
    ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;
    ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
     
-  💡 Problem Solving: Experienced in identifying and resolving complex technical issues, employing analytical thinking and troubleshooting skills to deliver effective solutions.
+  💡 Problem Solving: Experienced in identifying and resolving technical issues, using analytical thinking and troubleshooting skills to deliver effective solutions:
   
   <br>
   
