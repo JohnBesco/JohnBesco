@@ -57,10 +57,21 @@
     
   💡 Problem Solving: Experienced in identifying and resolving complex technical issues, employing analytical thinking and troubleshooting skills to deliver effective solutions.
     
-    
 </p>
 
+<h2><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="35">Connect With Me</h2>
+
+<a href="https://linkedin.com/in/john-besco-015153128/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="john-besco-015153128/" height="30" width="40" /></a>
+
 <br>
+
+<a href="https://instagram.com/besco.dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="besco.dev" height="30" width="40" /></a>
+
+<br>
+
+<a href="mailto:johnbesco.dev@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/gmail:  JohnBesco-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail/>
+</a>
 
 <br>
 
