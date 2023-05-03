@@ -60,19 +60,9 @@
     
 </p>
 
-
-
-
-
-
 <br>
 
 <br>
-
-
-
-
-
 
 <p align='center'> <img align="center" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExODFmMzBjY2NhOWJkMzA3OTMwNTg3YjYyZmY5Mzk1YzY0MGVkM2JlNyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/zOvBKUUEERdNm/giphy.gif">
 
