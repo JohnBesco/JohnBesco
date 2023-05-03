@@ -22,7 +22,44 @@
 
 <br>
 
-<h2><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="35"> Skills</h2>
+<h2><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="35">Skillset</h2>
+
+
+   🚀 Proficient in building responsive and accessible web interfaces, utilizing semantic HTML, CSS preprocessors, and modern JavaScript.
+   
+   <br>
+
+   ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
+   ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
+   ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
+   
+   <br>
+   
+  🎨 UI/UX Design: Knowledgeable in creating visually appealing designs and intuitive user experiences through effective use of color, typography, and layout.
+  
+  <br>
+  
+  ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
+  
+  <br>
+  
+  🔧 Version Control: Proficient in using Git for version control, ensuring efficient collaboration and code management in a team environment.
+  
+  <br>
+   
+   ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;
+   ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;
+   
+
+- **Tools**:
+
+    ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
+    
+  💡 Problem Solving: Experienced in identifying and resolving complex technical issues, employing analytical thinking and troubleshooting skills to deliver effective solutions.
+    
+    
+</p>
+
 
 
 
@@ -37,5 +74,5 @@
 
 
 
-<img align="center" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExODFmMzBjY2NhOWJkMzA3OTMwNTg3YjYyZmY5Mzk1YzY0MGVkM2JlNyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/zOvBKUUEERdNm/giphy.gif">
+<p align='center'> <img align="center" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExODFmMzBjY2NhOWJkMzA3OTMwNTg3YjYyZmY5Mzk1YzY0MGVkM2JlNyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/zOvBKUUEERdNm/giphy.gif">
 
