@@ -53,15 +53,10 @@
    ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;
    ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
     
-  💡 Problem Solving: Experienced in identifying and resolving technical issues, using analytical thinking and troubleshooting skills to deliver effective solutions:
+  💡 Problem Solving: Experienced in identifying and resolving technical issues, using analytical thinking and troubleshooting skills to deliver effective solutions
   
   <br>
   
-<p align='left'> 
-  <img align="center"
-src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExODFmMzBjY2NhOWJkMzA3OTMwNTg3YjYyZmY5Mzk1YzY0MGVkM2JlNyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/zOvBKUUEERdNm/giphy.gif">
-</p>
-
 <h2><img src="mdAssets/connect.gif" width ="60" height="60">Connect With Me</h2>
 
 <a href="https://linkedin.com/in/john-besco-015153128/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="john-besco-015153128/" height="30" width="40" /></a>
